@@ -1,0 +1,170 @@
+Css battle.txt
+<div id="quadrado1"></div>
+<div id="quadrado2"></div>
+<div id="quadrado3"></div>
+<div id="quadrado4"></div>
+<div id="quadrado5"></div>
+<div id="quadrado6"></div>
+<div id="quadrado7"></div>
+<div id="quadrado8"></div>
+<div id="quadrado9"></div>
+<div id="quadrado10"></div>
+<div id="quadrado11"></div>
+<div id="quadrado12"></div>
+<div id="quadrado13"></div>
+<div id="quadrado14"></div>
+<div id="quadrado15"></div>
+<div id="quadrado16"></div>
+<div id="quadrado17"></div>
+<div id="quadrado18"></div>
+
+
+<style>
+  div#quadrado1{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: 87px;
+    left: 52px;
+  }
+   div#quadrado2{
+    width: 30px;
+    height: 80px;
+    background: #FDFBF8;
+    position: relative;
+    top: 97px;
+    left: 52px;
+  }
+   div#quadrado3{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: 107px;
+    left: 52px;
+  }
+   div#quadrado4{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: 97px;
+    left: 102px;
+  }
+   div#quadrado5{
+    width: 30px;
+    height: 59.5px;
+    background: #FDFBF8;
+    position: relative;
+    top: 17px;
+    left: 102px;
+  }
+   div#quadrado6{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -63px;
+    left: 102px;
+  }
+  div#quadrado7{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: 17px;
+    left: 152px;
+  }
+   div#quadrado8{
+    width: 30px;
+    height: 90px;
+    background: #FDFBF8;
+    position: relative;
+    top: -93px;
+    left: 152px;
+  }
+   div#quadrado9{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -203px;
+    left: 152px;
+  }
+  div#quadrado10{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -183px;
+    left: 202px;
+  }
+   div#quadrado11{
+    width: 30px;
+    height: 60px;
+    background: #FDFBF8;
+    position: relative;
+    top: -173px;
+    left: 202px;
+  }
+   div#quadrado12{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -163px;
+    left: 202px;
+  }
+  div#quadrado13{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -283px;
+    left: 252px;
+  }
+   div#quadrado14{
+    width: 30px;
+    height: 80px;
+    background: #FDFBF8;
+    position: relative;
+    top: -273px;
+    left: 252px;
+  }
+   div#quadrado15{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -263px;
+    left: 252px;
+  }
+  div#quadrado16{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -393px;
+    left: 302px;
+  }
+   div#quadrado17{
+    width: 30px;
+    height: 90px;
+    background: #FDFBF8;
+    position: relative;
+    top: -383px;
+    left: 302px;
+  }
+   div#quadrado18{
+    width: 30px;
+    height: 10px;
+    background: #FDFBF8;
+    position: relative;
+    top: -373px;
+    left: 302px;
+  }
+  body{
+    background-color: #D669EC
+  }
+</style>

@@ -1,0 +1,30 @@
+  <div id="quadrado"></div>
+  <div id="circulo"></div>
+
+<style>
+   div#quadrado{
+    width: 300px;
+    height: 395px;
+    background: #FADE8b;
+    border-top-left-radius: 145px 75px;
+    border-top-right-radius: 145px 75px;
+    position: relative;
+    top: 67px;
+    left: 43px;
+  }
+
+  div#circulo{
+    width: 240px;
+    height: 90px;
+    background: #E3516E;
+    position: relative;
+    top: -298px;
+    left: 73px;
+    border-radius: 100% 
+  }
+
+  body{
+    background-color: #E3516E
+  }
+
+</style>

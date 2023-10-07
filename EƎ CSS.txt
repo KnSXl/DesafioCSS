@@ -1,0 +1,57 @@
+<div class="quadrado1"></div>
+<div class="quadrado2"></div>
+<div class="quadrado3"></div>
+<div class="quadrado4"></div>
+<div class="quadrado5"></div>
+<style>
+  div.quadrado1{
+    position: relative;
+    top: 52px;
+    left: 117px;
+    width:121px;
+    height: 150px;
+    background: #BD6C27;
+  }
+
+  div.quadrado2{
+    background-color: #8F2D2B;
+    width: 121px;
+    height: 29px;
+    position: absolute;
+    top: 90px;
+    left: 155px
+  }
+
+    div.quadrado3{
+    background-color: #8F2D2B;
+    width: 30px;
+    height: 150px;
+    position: absolute;
+    top: 90px;
+    left: 246px
+  }
+
+    div.quadrado4{
+    background-color: #8F2D2B;
+    width: 121px;
+    height: 30px;
+    position: absolute;
+    top: 210px;
+    left: 155px;
+  }
+
+    div.quadrado5{
+    background-color: #8F2D2B;
+    width: 121px;
+    height: 30px;
+    position: absolute;
+    top: 150px;
+    left: 155px;
+    }
+
+  body{
+    background-color: #E6D9AC;    
+  }
+      
+</style>
+

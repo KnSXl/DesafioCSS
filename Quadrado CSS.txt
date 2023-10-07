@@ -1,0 +1,78 @@
+Quadrado CSS:
+
+<div id="quad1"></div>
+<div id="quad2"></div>
+<div id="quad3"></div>
+<div id="quad4"></div>
+<div id="quad5"></div>
+<div id="quad6"></div>
+
+<style>
+  div#quad1{
+    width: 160px;
+    height: 160px;
+    background: #FADE8B;
+    position: relative;
+    top: 60;
+    left: 110;
+    transform: rotate(45deg);
+  }
+
+  div#quad2{
+    width: 130px;
+    height: 130px;
+    background: #E3516E;
+    position: relative;
+    top: ;
+    left: 125;
+    transform: rotate(45deg);
+    bottom: 86px;
+  }
+
+  div#quad3{
+    width: 120px;
+    height: 120px;
+    background: #FADE8B;
+    position: relative;
+    top: ;
+    left: 130;
+    transform: rotate(45deg);
+    bottom: 182px;
+  }
+
+  div#quad4{
+    width: 90px;
+    height: 90px;
+    background: #E3516E;
+    position: relative;
+    top: -287;
+    left: 145;
+    transform: rotate(45deg);
+    bottom: 20px;
+  }
+
+  div#quad5{
+    width: 80px;
+    height: 80px;
+    background: #FADE8B;
+    position: relative;
+    top: -350;
+    left: 150;
+    transform: rotate(45deg);
+    bottom: 20px;
+  }
+
+  div#quad6{
+    width: 55px;
+    height: 55px;
+    background: #E3516E;
+    position: relative;
+    top: -413;
+    left: 162;
+    transform: rotate(45deg);
+    bottom: 20px;
+  }
+  
+body{
+background: #E3516E
+}
